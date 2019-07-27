@@ -48,6 +48,6 @@ tree
 Anda perlu melakukan konfigurasi git agar dapat melakukan prosedur "Push" dan **Pull** repositori lokal ke repositori daring di GitHub. Hal ini dapat dilakukan melalui RStudio dengan cara klik menu **"Tools -- Terminal"** dan menjalankan baris kode berikut:
 
 ```{bash, eval = FALSE}
-git config --global user.email "Email Anda"
-git config --global user.name "Nama Anda"
+git config --global user.email "barunhafidz7@gmail.com"
+git config --global user.name "bar00n"
 ```
